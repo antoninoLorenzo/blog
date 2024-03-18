@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: antoninoLorenzo Blog
 ---
+[Projects](projects.md)
 
